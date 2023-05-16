@@ -16,6 +16,10 @@ Azure OpenAIGPT Winform Demo
 3、安装依赖包
 安装“Azure.AI.OpenAI”Nuget 包
 
-二、有问题请咨询
+二、运行结果
+
+![image](https://github.com/HysysRobert/AzureOpenAIGPT/assets/133632562/002b6df1-62f7-44ec-aec5-d8ac320c695e)
+
+三、有问题请咨询
 
 加微信：robert_luobo
