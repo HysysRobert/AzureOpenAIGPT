@@ -2,6 +2,7 @@
 Azure OpenAIGPT Winform Demo
 
 一、步骤
+
 1、开通 Azure OpenAI 服务
 在 Azure 国际版（azure.com）注册账号。注册后创建OpenAI 服务。申请提交后需要等待微软官方审核，审核通过后就可以对接接口了。
 
@@ -16,4 +17,5 @@ Azure OpenAIGPT Winform Demo
 安装“Azure.AI.OpenAI”Nuget 包
 
 二、有问题请咨询
+
 加微信：robert_luobo
