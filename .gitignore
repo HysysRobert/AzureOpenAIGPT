@@ -1,0 +1,8 @@
+
+*.config
+*.v2
+*.lock
+*.vsidx
+.vs/AzureOpenAI/v17/.suo
+.vs/AzureOpenAIGPT/v17/.suo
+*.1
